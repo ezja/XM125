@@ -1,0 +1,1411 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr B 17000 11000
+encoding utf-8
+Sheet 1 1
+Title "XM125-SchDoc"
+Date "03 04 2023"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	0 -690 0 -690
+Wire Wire Line
+	0 -690 16530 -690
+Wire Wire Line
+	0 -690 16530 -690
+Wire Wire Line
+	16530 -690 16530 -690
+Wire Wire Line
+	16500 -700 16500 11000
+Wire Wire Line
+	16500 -700 16500 -700
+Wire Wire Line
+	16500 11000 16500 11000
+Wire Wire Line
+	16500 -700 16500 11000
+Wire Wire Line
+	16550 11000 16550 11000
+Wire Wire Line
+	16550 11000 10 11000
+Wire Wire Line
+	16550 11000 10 11000
+Wire Wire Line
+	10 11000 10 11000
+Wire Wire Line
+	0 11000 0 -690
+Wire Wire Line
+	0 11000 0 11000
+Wire Wire Line
+	0 -690 0 -690
+Wire Wire Line
+	0 11000 0 -690
+Wire Wire Line
+	200 -490 200 -490
+Wire Wire Line
+	200 -490 16330 -490
+Wire Wire Line
+	200 -490 16330 -490
+Wire Wire Line
+	16330 -490 16330 -490
+Wire Wire Line
+	16330 -490 16330 10800
+Wire Wire Line
+	16330 -490 16330 -490
+Wire Wire Line
+	16330 10800 16330 10800
+Wire Wire Line
+	16330 -490 16330 10800
+Wire Wire Line
+	16330 10800 16330 10800
+Wire Wire Line
+	16330 10800 200 10800
+Wire Wire Line
+	16330 10800 200 10800
+Wire Wire Line
+	200 10800 200 10800
+Wire Wire Line
+	200 10800 200 -490
+Wire Wire Line
+	200 10800 200 10800
+Wire Wire Line
+	200 -490 200 -490
+Wire Wire Line
+	200 10800 200 -490
+Wire Wire Line
+	14460 10800 14460 11000
+Wire Wire Line
+	14460 10800 14460 10800
+Wire Wire Line
+	14460 11000 14460 11000
+Wire Wire Line
+	14460 10800 14460 11000
+Wire Wire Line
+	14460 -490 14460 -690
+Wire Wire Line
+	14460 -490 14460 -490
+Wire Wire Line
+	14460 -690 14460 -690
+Wire Wire Line
+	14460 -490 14460 -690
+Text Notes 15480 10930 0    42   ~ 0
+1
+Text Notes 15480 -560 0    42   ~ 0
+1
+Wire Wire Line
+	12400 10800 12400 11000
+Wire Wire Line
+	12400 10800 12400 10800
+Wire Wire Line
+	12400 11000 12400 11000
+Wire Wire Line
+	12400 10800 12400 11000
+Text Notes 13410 10930 0    42   ~ 0
+2
+Text Notes 13410 -560 0    42   ~ 0
+2
+Wire Wire Line
+	10330 10800 10330 11000
+Wire Wire Line
+	10330 10800 10330 10800
+Wire Wire Line
+	10330 11000 10330 11000
+Wire Wire Line
+	10330 10800 10330 11000
+Wire Wire Line
+	10330 -490 10330 -690
+Wire Wire Line
+	10330 -490 10330 -490
+Wire Wire Line
+	10330 -690 10330 -690
+Wire Wire Line
+	10330 -490 10330 -690
+Text Notes 11340 10930 0    42   ~ 0
+3
+Text Notes 11340 -560 0    42   ~ 0
+3
+Wire Wire Line
+	8260 10800 8260 11000
+Wire Wire Line
+	8260 10800 8260 10800
+Wire Wire Line
+	8260 11000 8260 11000
+Wire Wire Line
+	8260 10800 8260 11000
+Wire Wire Line
+	8260 -490 8260 -690
+Wire Wire Line
+	8260 -490 8260 -490
+Wire Wire Line
+	8260 -690 8260 -690
+Wire Wire Line
+	8260 -490 8260 -690
+Text Notes 9270 10930 0    42   ~ 0
+4
+Text Notes 9270 -560 0    42   ~ 0
+4
+Wire Wire Line
+	6200 10800 6200 11000
+Wire Wire Line
+	6200 10800 6200 10800
+Wire Wire Line
+	6200 11000 6200 11000
+Wire Wire Line
+	6200 10800 6200 11000
+Wire Wire Line
+	6200 -490 6200 -690
+Wire Wire Line
+	6200 -490 6200 -490
+Wire Wire Line
+	6200 -690 6200 -690
+Wire Wire Line
+	6200 -490 6200 -690
+Text Notes 7210 10930 0    42   ~ 0
+5
+Text Notes 7210 -560 0    42   ~ 0
+5
+Wire Wire Line
+	4130 10800 4130 11000
+Wire Wire Line
+	4130 10800 4130 10800
+Wire Wire Line
+	4130 11000 4130 11000
+Wire Wire Line
+	4130 10800 4130 11000
+Wire Wire Line
+	4130 -490 4130 -690
+Wire Wire Line
+	4130 -490 4130 -490
+Wire Wire Line
+	4130 -690 4130 -690
+Wire Wire Line
+	4130 -490 4130 -690
+Text Notes 5140 10930 0    42   ~ 0
+6
+Text Notes 5140 -560 0    42   ~ 0
+6
+Wire Wire Line
+	2060 10800 2060 11000
+Wire Wire Line
+	2060 10800 2060 10800
+Wire Wire Line
+	2060 11000 2060 11000
+Wire Wire Line
+	2060 10800 2060 11000
+Wire Wire Line
+	2060 -490 2060 -690
+Wire Wire Line
+	2060 -490 2060 -490
+Wire Wire Line
+	2060 -690 2060 -690
+Wire Wire Line
+	2060 -490 2060 -690
+Text Notes 3070 10930 0    42   ~ 0
+7
+Text Notes 3070 -560 0    42   ~ 0
+7
+Text Notes 1010 10930 0    42   ~ 0
+8
+Text Notes 1010 -560 0    42   ~ 0
+8
+Wire Wire Line
+	200 1260 200 1260
+Wire Wire Line
+	200 1260 0 1260
+Wire Wire Line
+	200 1260 0 1260
+Wire Wire Line
+	0 1260 0 1260
+Wire Wire Line
+	16330 1260 16330 1260
+Wire Wire Line
+	16330 1260 16530 1260
+Wire Wire Line
+	16330 1260 16530 1260
+Wire Wire Line
+	16530 1260 16530 1260
+Text Notes 70 370 0    42   ~ 0
+F
+Text Notes 16410 370 0    42   ~ 0
+F
+Wire Wire Line
+	200 3210 200 3210
+Wire Wire Line
+	200 3210 0 3210
+Wire Wire Line
+	200 3210 0 3210
+Wire Wire Line
+	0 3210 0 3210
+Wire Wire Line
+	16330 3210 16330 3210
+Wire Wire Line
+	16330 3210 16530 3210
+Wire Wire Line
+	16330 3210 16530 3210
+Wire Wire Line
+	16530 3210 16530 3210
+Text Notes 70 2320 0    42   ~ 0
+E
+Text Notes 16400 2320 0    42   ~ 0
+E
+Wire Wire Line
+	200 5160 200 5160
+Wire Wire Line
+	200 5160 0 5160
+Wire Wire Line
+	200 5160 0 5160
+Wire Wire Line
+	0 5160 0 5160
+Wire Wire Line
+	16330 5160 16330 5160
+Wire Wire Line
+	16330 5160 16530 5160
+Wire Wire Line
+	16330 5160 16530 5160
+Wire Wire Line
+	16530 5160 16530 5160
+Text Notes 70 4260 0    42   ~ 0
+D
+Text Notes 16400 4260 0    42   ~ 0
+D
+Wire Wire Line
+	200 7110 200 7110
+Wire Wire Line
+	200 7110 0 7110
+Wire Wire Line
+	200 7110 0 7110
+Wire Wire Line
+	0 7110 0 7110
+Wire Wire Line
+	16330 7110 16330 7110
+Wire Wire Line
+	16330 7110 16530 7110
+Wire Wire Line
+	16330 7110 16530 7110
+Wire Wire Line
+	16530 7110 16530 7110
+Text Notes 70 6210 0    42   ~ 0
+C
+Text Notes 16400 6210 0    42   ~ 0
+C
+Wire Wire Line
+	200 9060 200 9060
+Wire Wire Line
+	200 9060 0 9060
+Wire Wire Line
+	200 9060 0 9060
+Wire Wire Line
+	0 9060 0 9060
+Wire Wire Line
+	16330 9060 16330 9060
+Wire Wire Line
+	16330 9060 16530 9060
+Wire Wire Line
+	16330 9060 16530 9060
+Wire Wire Line
+	16530 9060 16530 9060
+Text Notes 70 8160 0    42   ~ 0
+B
+Text Notes 16400 8160 0    42   ~ 0
+B
+Text Notes 70 10110 0    42   ~ 0
+A
+Text Notes 16400 10110 0    42   ~ 0
+A
+Text Notes 13010 10290 0    144   ~ 0
+*
+Wire Notes Line
+	12700 10700 16340 10700
+Wire Notes Line
+	15550 10600 15550 10300
+Text Notes 12800 10600 0    132   ~ 0
+A3
+Text Notes 13000 10800 0    48   ~ 0
+*
+Text Notes 15100 10700 0    48   ~ 0
+1
+Text Notes 12750 10350 0    48   ~ 0
+Size
+Text Notes 12750 10650 0    48   ~ 0
+Date:
+Text Notes 14850 10650 0    48   ~ 0
+Sheet
+Text Notes 15250 10650 0    48   ~ 0
+of
+Text Notes 15600 10350 0    48   ~ 0
+PCBA version
+Wire Notes Line
+	14800 10800 14800 10600
+Wire Notes Line
+	13100 10600 13100 10300
+Wire Notes Line
+	16330 10000 12700 10000
+Wire Notes Line
+	16330 10300 12700 10300
+Text Notes 15600 10550 0    72   ~ 0
+=ItemRevision
+Wire Wire Line
+	12400 -490 12400 -690
+Wire Wire Line
+	12400 -490 12400 -490
+Wire Wire Line
+	12400 -690 12400 -690
+Wire Wire Line
+	12400 -490 12400 -690
+Text Label 250 -440 0 60 ~
+THIS DOCUMENT AND THE DATA DISCLOSED HEREIN OR HEREWITH IS CONFIDENTIAL AND THE PROPERTY OF ACCONEER.
+Wire Notes Line
+	200 -490 3000 -490
+Wire Notes Line
+	200 -10 200 -490
+Wire Notes Line
+	3000 -10 200 -10
+Wire Notes Line
+	3000 -490 3000 -10
+Text Notes 13150 10350 0    48   ~ 0
+Project variant
+Text Notes 13150 10550 0    72   ~ 0
+=VariantName
+Text Notes 12750 10050 0    48   ~ 0
+Project name
+Text Notes 12750 10750 0    48   ~ 0
+File:
+Wire Notes Line
+	12700 10600 16330 10600
+Text Notes 15400 10700 0    48   ~ 0
+1
+Text Notes 13000 10700 0    48   ~ 0
+*
+Text Notes 14850 10750 0    48   ~ 0
+Drawn By:
+Text Notes 15200 10800 0    48   ~ 0
+Jonas Långbacka
+Wire Notes Line
+	16330 10000 12700 10000
+Wire Notes Line
+	16330 9400 12700 9400
+Text Notes 15120 9550 0    72   ~ 0
+Acconeer AB
+Text Notes 15120 9680 0    72   ~ 0
+Västra Varvsgatan 19
+Text Notes 15120 9830 0    72   ~ 0
+211 77 Malmö
+Text Notes 15120 9960 0    72   ~ 0
+Sweden
+Wire Notes Line
+	15000 10000 15000 9400
+Text Notes 15000 10350 0    48   ~ 0
+PB number
+Wire Notes Line
+	14950 10600 14950 10300
+Text Notes 15000 10550 0    72   ~ 0
+=PB_number
+Text Label 2000 2300 0 60 ~
+NRESET
+$Comp
+L power:VIN #PWR?642AA8CC
+U 1 1 642AA8CC
+P 1100 1000
+F 0 "VIN" H 1100 1000 20  0000 C CNN
+F 1 "VIN" H 1100 930 30  0000 C CNN
+F 2 "" H 1100 1000 70  0000 C CNN
+F 3 "" H 1100 1000 70  0000 C CNN
+	1    1100 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?642AA8CB
+U 1 1 642AA8CB
+P 10700 2000
+F 0 "GND" H 10700 2140 20  0000 C CNN
+F 1 "GND" H 10700 2110 30  0000 C CNN
+F 2 "" H 10700 2000 70  0000 C CNN
+F 3 "" H 10700 2000 70  0000 C CNN
+	1    10700 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?642AA8CA
+U 1 1 642AA8CA
+P 11300 1200
+F 0 "GND_2" H 11300 1340 20  0000 C CNN
+F 1 "GND" H 11300 1310 30  0000 C CNN
+F 2 "" H 11300 1200 70  0000 C CNN
+F 3 "" H 11300 1200 70  0000 C CNN
+	1    11300 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?642AA8C9
+U 1 1 642AA8C9
+P 11800 1200
+F 0 "GND_3" H 11800 1340 20  0000 C CNN
+F 1 "GND" H 11800 1310 30  0000 C CNN
+F 2 "" H 11800 1200 70  0000 C CNN
+F 3 "" H 11800 1200 70  0000 C CNN
+	1    11800 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?642AA8C8
+U 1 1 642AA8C8
+P 14500 3900
+F 0 "GND_4" H 14500 4040 20  0000 C CNN
+F 1 "GND" H 14500 4010 30  0000 C CNN
+F 2 "" H 14500 3900 70  0000 C CNN
+F 3 "" H 14500 3900 70  0000 C CNN
+	1    14500 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+1V8 #PWR?642AA8C7
+U 1 1 642AA8C7
+P 11300 600
+F 0 "1V8" H 11300 600 20  0000 C CNN
+F 1 "1V8" H 11300 530 30  0000 C CNN
+F 2 "" H 11300 600 70  0000 C CNN
+F 3 "" H 11300 600 70  0000 C CNN
+	1    11300 600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?642AA8C6
+U 1 1 642AA8C6
+P 2600 9500
+F 0 "GND_5" H 2600 9640 20  0000 C CNN
+F 1 "GND" H 2600 9610 30  0000 C CNN
+F 2 "" H 2600 9500 70  0000 C CNN
+F 3 "" H 2600 9500 70  0000 C CNN
+	1    2600 9500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?642AA8C5
+U 1 1 642AA8C5
+P 5050 9400
+F 0 "GND_6" H 5050 9540 20  0000 C CNN
+F 1 "GND" H 5050 9510 30  0000 C CNN
+F 2 "" H 5050 9400 70  0000 C CNN
+F 3 "" H 5050 9400 70  0000 C CNN
+	1    5050 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VIN #PWR?642AA8C4
+U 1 1 642AA8C4
+P 10700 1500
+F 0 "VIN_2" H 10700 1500 20  0000 C CNN
+F 1 "VIN" H 10700 1430 30  0000 C CNN
+F 2 "" H 10700 1500 70  0000 C CNN
+F 3 "" H 10700 1500 70  0000 C CNN
+	1    10700 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VIN #PWR?642AA8C3
+U 1 1 642AA8C3
+P 1500 8000
+F 0 "VIN_3" H 1500 8000 20  0000 C CNN
+F 1 "VIN" H 1500 7930 30  0000 C CNN
+F 2 "" H 1500 8000 70  0000 C CNN
+F 3 "" H 1500 8000 70  0000 C CNN
+	1    1500 8000
+	1    0    0    -1  
+$EndComp
+Text Label 1500 9300 0 60 ~
+NRESET
+Text Label 6000 8800 0 60 ~
+I2C_ADDR
+Text Label 6000 9000 0 60 ~
+I2C_SDA
+Text Label 6000 8000 0 60 ~
+MCU_INT
+Text Label 6000 8300 0 60 ~
+MISC_GPIO1
+Text Label 6000 8200 0 60 ~
+MISC_GPIO2_BOOT0
+Text Label 6000 8400 0 60 ~
+MISC_GPIO0
+Text Label 6000 8700 0 60 ~
+DEBUG_UART_RX
+Text Label 1500 9100 0 60 ~
+SWDCLK
+$Comp
+L power:GND #PWR?642AA8C2
+U 1 1 642AA8C2
+P 11000 5000
+F 0 "GND_7" H 11000 5140 20  0000 C CNN
+F 1 "GND" H 11000 5110 30  0000 C CNN
+F 2 "" H 11000 5000 70  0000 C CNN
+F 3 "" H 11000 5000 70  0000 C CNN
+	1    11000 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?642AA8C1
+U 1 1 642AA8C1
+P 12000 5000
+F 0 "GND_8" H 12000 5140 20  0000 C CNN
+F 1 "GND" H 12000 5110 30  0000 C CNN
+F 2 "" H 12000 5000 70  0000 C CNN
+F 3 "" H 12000 5000 70  0000 C CNN
+	1    12000 5000
+	1    0    0    -1  
+$EndComp
+Text Notes 1200 500 0    120   ~ 0
+MCU
+Text Notes 9950 150 0    120   ~ 0
+Radar sensor
+$Comp
+L power:GND #PWR?642AA8C0
+U 1 1 642AA8C0
+P 1100 7800
+F 0 "GND_9" H 1100 7940 20  0000 C CNN
+F 1 "GND" H 1100 7910 30  0000 C CNN
+F 2 "" H 1100 7800 70  0000 C CNN
+F 3 "" H 1100 7800 70  0000 C CNN
+	1    1100 7800
+	1    0    0    -1  
+$EndComp
+Text Label 6000 8500 0 60 ~
+DEBUG_UART_TX
+Text Label 6000 9100 0 60 ~
+I2C_SCL
+Text Label 6000 9300 0 60 ~
+WAKE_UP
+Text Label 1500 9000 0 60 ~
+SWDIO
+Text Label 1500 8700 0 60 ~
+UART_CTS
+Text Label 1500 8800 0 60 ~
+UART_RTS
+Text Label 1500 8500 0 60 ~
+UART_RX
+Text Label 1500 8400 0 60 ~
+UART_TX
+$Comp
+L power:+1V8 #PWR?642AA8BF
+U 1 1 642AA8BF
+P 1500 8200
+F 0 "1V8_2" H 1500 8200 20  0000 C CNN
+F 1 "1V8" H 1500 8130 30  0000 C CNN
+F 2 "" H 1500 8200 70  0000 C CNN
+F 3 "" H 1500 8200 70  0000 C CNN
+	1    1500 8200
+	1    0    0    -1  
+$EndComp
+Text Label 11800 800 0 60 ~
+1V8_sensor
+Text Label 12150 1800 0 60 ~
+VIN_sensor
+Text Label 2000 2900 0 60 ~
+SPI_CLK
+Text Label 2000 3000 0 60 ~
+SPI_MISO
+Text Label 2000 3100 0 60 ~
+SPI_MOSI
+Text Label 2000 3800 0 60 ~
+SWDCLK
+Text Label 2000 2400 0 60 ~
+UART_CTS
+Text Label 2000 2500 0 60 ~
+UART_RTS
+Text Label 2000 3700 0 60 ~
+SWDIO
+Text Label 2000 3300 0 60 ~
+DEBUG_UART_TX
+Text Label 2000 3400 0 60 ~
+DEBUG_UART_RX
+Text Label 2000 2600 0 60 ~
+UART_TX
+Text Label 2000 2700 0 60 ~
+UART_RX
+Text Label 2000 2800 0 60 ~
+MISC_GPIO1
+Text Label 5800 1500 0 60 ~
+INTERRUPT
+Text Label 5800 2300 0 60 ~
+I2C_SDA
+Text Label 5800 2200 0 60 ~
+I2C_SCL
+Text Label 6300 3100 0 60 ~
+MISC_GPIO2_BOOT0
+Text Label 5800 2100 0 60 ~
+MCU_INT
+Text Label 6300 2900 0 60 ~
+I2C_ADDR
+Text Label 5800 2400 0 60 ~
+ENABLE
+Wire Notes Line
+	8300 6000 8260 -500
+Wire Notes Line
+	16400 6000 200 6000
+Text Notes 1000 7200 0    120   ~ 0
+Module LGA footprint
+Text Label 2000 3500 0 60 ~
+WAKE_UP
+$Comp
+L power:GND #PWR?642AA8BE
+U 1 1 642AA8BE
+P 2600 2000
+F 0 "GND_10" H 2600 2140 20  0000 C CNN
+F 1 "GND" H 2600 2110 30  0000 C CNN
+F 2 "" H 2600 2000 70  0000 C CNN
+F 3 "" H 2600 2000 70  0000 C CNN
+	1    2600 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?642AA8BD
+U 1 1 642AA8BD
+P 1100 1400
+F 0 "GND_11" H 1100 1540 20  0000 C CNN
+F 1 "GND" H 1100 1510 30  0000 C CNN
+F 2 "" H 1100 1400 70  0000 C CNN
+F 3 "" H 1100 1400 70  0000 C CNN
+	1    1100 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?642AA8BC
+U 1 1 642AA8BC
+P 5300 3700
+F 0 "GND_12" H 5300 3840 20  0000 C CNN
+F 1 "GND" H 5300 3810 30  0000 C CNN
+F 2 "" H 5300 3700 70  0000 C CNN
+F 3 "" H 5300 3700 70  0000 C CNN
+	1    5300 3700
+	1    0    0    -1  
+$EndComp
+Text Label 12200 2500 0 60 ~
+SPI_MOSI
+Text Label 12200 2400 0 60 ~
+SPI_CLK
+Text Label 12200 2600 0 60 ~
+SPI_MISO
+Text Label 12150 3300 0 60 ~
+INTERRUPT
+Text Label 12200 2200 0 60 ~
+ENABLE
+Text Label 12300 4200 0 60 ~
+XOUT
+Text Label 12300 4300 0 60 ~
+XIN
+$Comp
+L power:GND #PWR?642AA8BB
+U 1 1 642AA8BB
+P 12300 1200
+F 0 "GND_13" H 12300 1340 20  0000 C CNN
+F 1 "GND" H 12300 1310 30  0000 C CNN
+F 2 "" H 12300 1200 70  0000 C CNN
+F 3 "" H 12300 1200 70  0000 C CNN
+	1    12300 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?642AA8BA
+U 1 1 642AA8BA
+P 11900 3300
+F 0 "GND_14" H 11900 3440 20  0000 C CNN
+F 1 "GND" H 11900 3410 30  0000 C CNN
+F 2 "" H 11900 3300 70  0000 C CNN
+F 3 "" H 11900 3300 70  0000 C CNN
+	1    11900 3300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11800 1200 11800 1100
+Wire Wire Line
+	11300 1100 11300 1200
+Wire Wire Line
+	14500 900 14500 800
+Wire Wire Line
+	14500 1000 14500 900
+Wire Wire Line
+	14500 1100 14500 1000
+Wire Wire Line
+	14500 1200 14500 1100
+Wire Wire Line
+	14500 1300 14500 1200
+Wire Wire Line
+	14500 1400 14500 1300
+Wire Wire Line
+	14500 1500 14500 1400
+Wire Wire Line
+	14500 1600 14500 1500
+Wire Wire Line
+	14500 1700 14500 1600
+Wire Wire Line
+	14500 1800 14500 1700
+Wire Wire Line
+	14500 1900 14500 1800
+Wire Wire Line
+	14500 2000 14500 1900
+Wire Wire Line
+	14500 2100 14500 2000
+Wire Wire Line
+	14500 2200 14500 2100
+Wire Wire Line
+	14500 2300 14500 2200
+Wire Wire Line
+	14500 2400 14500 2300
+Wire Wire Line
+	14500 2500 14500 2400
+Wire Wire Line
+	14500 2600 14500 2500
+Wire Wire Line
+	14500 2700 14500 2600
+Wire Wire Line
+	14500 2800 14500 2700
+Wire Wire Line
+	14500 2900 14500 2800
+Wire Wire Line
+	14500 3000 14500 2900
+Wire Wire Line
+	14500 3100 14500 3000
+Wire Wire Line
+	14500 3200 14500 3100
+Wire Wire Line
+	14500 3300 14500 3200
+Wire Wire Line
+	14500 3400 14500 3300
+Wire Wire Line
+	14500 3500 14500 3400
+Wire Wire Line
+	14500 3600 14500 3500
+Wire Wire Line
+	14500 3700 14500 3600
+Wire Wire Line
+	14500 3900 14500 3700
+Wire Wire Line
+	11300 900 11300 800
+Wire Wire Line
+	10800 5000 11000 5000
+Wire Wire Line
+	10800 4900 10800 5000
+Wire Wire Line
+	12000 5000 12000 4800
+Wire Wire Line
+	12200 5000 12000 5000
+Wire Wire Line
+	12200 4900 12200 5000
+Wire Wire Line
+	10700 1500 10700 1800
+Wire Wire Line
+	2800 9200 2600 9200
+Wire Wire Line
+	2600 9200 2600 9500
+Wire Wire Line
+	2000 8000 1500 8000
+Wire Wire Line
+	2800 8000 2000 8000
+Wire Wire Line
+	2600 8600 2800 8600
+Wire Wire Line
+	2800 8200 1500 8200
+Wire Wire Line
+	1500 8500 2800 8500
+Wire Wire Line
+	2800 8800 1500 8800
+Wire Wire Line
+	1500 8400 2800 8400
+Wire Wire Line
+	2600 8100 2800 8100
+Wire Wire Line
+	2600 8300 2600 8100
+Wire Wire Line
+	2600 8600 2600 8300
+Wire Wire Line
+	2600 8900 2600 8600
+Wire Wire Line
+	2600 9200 2600 8900
+Wire Wire Line
+	2600 8300 2800 8300
+Wire Wire Line
+	2150 9000 2150 7800
+Wire Wire Line
+	2300 9100 2300 7800
+Wire Wire Line
+	2300 9100 1500 9100
+Wire Wire Line
+	2800 9100 2300 9100
+Wire Wire Line
+	2450 9300 2450 7800
+Wire Wire Line
+	2800 8700 1500 8700
+Wire Wire Line
+	2600 8900 2800 8900
+Wire Wire Line
+	11800 900 11800 800
+Wire Wire Line
+	2000 8000 2000 7800
+Wire Wire Line
+	4800 9300 6000 9300
+Wire Wire Line
+	4800 9200 5050 9200
+Wire Wire Line
+	4800 9100 6000 9100
+Wire Wire Line
+	4800 9000 6000 9000
+Wire Wire Line
+	4800 8900 5050 8900
+Wire Wire Line
+	4800 8800 6000 8800
+Wire Wire Line
+	4800 8700 6000 8700
+Wire Wire Line
+	4800 8600 5050 8600
+Wire Wire Line
+	4800 8500 6000 8500
+Wire Wire Line
+	4800 8300 6000 8300
+Wire Wire Line
+	4800 8200 6000 8200
+Wire Wire Line
+	5050 9200 5050 9400
+Wire Wire Line
+	5050 8900 5050 9200
+Wire Wire Line
+	5050 8600 5050 8900
+Wire Wire Line
+	5050 8100 5050 8600
+Wire Wire Line
+	4800 8100 5050 8100
+Wire Wire Line
+	2150 9000 1500 9000
+Wire Wire Line
+	2800 9000 2150 9000
+Wire Wire Line
+	2450 9300 1500 9300
+Wire Wire Line
+	2800 9300 2450 9300
+Wire Wire Line
+	2000 3100 2800 3100
+Wire Wire Line
+	2000 3000 2800 3000
+Wire Wire Line
+	2800 2900 2000 2900
+Wire Wire Line
+	2000 2400 2800 2400
+Wire Wire Line
+	2000 2500 2800 2500
+Wire Wire Line
+	2000 3700 2800 3700
+Wire Wire Line
+	2000 3800 2800 3800
+Wire Wire Line
+	2000 3300 2800 3300
+Wire Wire Line
+	2000 3400 2800 3400
+Wire Wire Line
+	2000 2600 2800 2600
+Wire Wire Line
+	2000 2700 2800 2700
+Wire Wire Line
+	5800 1500 5100 1500
+Wire Wire Line
+	5800 2300 5100 2300
+Wire Wire Line
+	5100 2200 5800 2200
+Wire Wire Line
+	5800 2100 5100 2100
+Wire Wire Line
+	4800 8000 6000 8000
+Wire Wire Line
+	4800 8400 6000 8400
+Wire Wire Line
+	6300 2900 5100 2900
+Wire Wire Line
+	11000 4800 11000 5000
+Wire Wire Line
+	10800 4200 12700 4200
+Wire Wire Line
+	10800 4600 10800 4200
+Wire Wire Line
+	11000 4600 10800 4600
+Wire Wire Line
+	12200 4600 12000 4600
+Wire Wire Line
+	12200 4300 12200 4600
+Wire Wire Line
+	12700 4300 12200 4300
+Wire Wire Line
+	12200 4700 12200 4600
+Wire Wire Line
+	10800 4700 10800 4600
+Wire Wire Line
+	2000 3500 2800 3500
+Wire Wire Line
+	2800 2000 2600 2000
+Wire Wire Line
+	2800 1900 2800 2000
+Wire Wire Line
+	2800 1800 2800 1900
+Wire Wire Line
+	2800 1700 2800 1800
+Wire Wire Line
+	2600 1000 2600 1100
+Wire Wire Line
+	2100 1400 2100 1300
+Wire Wire Line
+	2100 1000 2100 1100
+Wire Wire Line
+	2800 2300 2000 2300
+Wire Wire Line
+	2800 2200 2800 2300
+Wire Wire Line
+	2100 2000 2600 2000
+Wire Wire Line
+	2100 1900 2100 2000
+Wire Wire Line
+	2600 1600 2600 1700
+Wire Wire Line
+	2600 2000 2600 1900
+Wire Wire Line
+	1100 1000 1100 1100
+Wire Wire Line
+	1600 1000 1100 1000
+Wire Wire Line
+	2100 1000 1600 1000
+Wire Wire Line
+	2600 1000 2100 1000
+Wire Wire Line
+	2800 1000 2600 1000
+Wire Wire Line
+	2800 1200 2800 1000
+Wire Wire Line
+	2800 1300 2800 1200
+Wire Wire Line
+	2800 1400 2800 1300
+Wire Wire Line
+	2800 1500 2800 1400
+Wire Wire Line
+	2800 1600 2800 1500
+Wire Wire Line
+	2600 1600 2800 1600
+Wire Wire Line
+	2100 1600 2600 1600
+Wire Wire Line
+	2100 1700 2100 1600
+Wire Wire Line
+	1100 1400 1100 1300
+Wire Wire Line
+	1600 1400 1100 1400
+Wire Wire Line
+	2100 1400 1600 1400
+Wire Wire Line
+	2600 1400 2100 1400
+Wire Wire Line
+	2600 1300 2600 1400
+Wire Wire Line
+	1600 1000 1600 1100
+Wire Wire Line
+	1600 1400 1600 1300
+Wire Wire Line
+	5300 3100 5100 3100
+Wire Wire Line
+	6300 3100 5300 3100
+Wire Wire Line
+	5300 3200 5300 3100
+Wire Wire Line
+	10700 1800 12700 1800
+Wire Wire Line
+	12700 1700 12700 1800
+Wire Wire Line
+	12700 1200 12700 1600
+Wire Wire Line
+	12200 2500 12700 2500
+Wire Wire Line
+	12700 2400 12200 2400
+Wire Wire Line
+	12200 2600 12700 2600
+Wire Wire Line
+	12150 3300 12700 3300
+Wire Wire Line
+	12200 2200 12700 2200
+Wire Wire Line
+	12300 1200 12300 1100
+Wire Wire Line
+	12300 900 12300 800
+Wire Wire Line
+	12700 900 12700 800
+Wire Wire Line
+	12700 1100 12700 900
+Wire Wire Line
+	12700 1200 12700 1100
+Wire Wire Line
+	11800 800 11300 800
+Wire Wire Line
+	12300 800 11800 800
+Wire Wire Line
+	12700 800 12300 800
+Wire Wire Line
+	12200 2300 12700 2300
+Wire Wire Line
+	11900 2800 12700 2800
+Wire Wire Line
+	11900 2900 11900 2800
+Wire Wire Line
+	11900 3000 11900 2900
+Wire Wire Line
+	11900 3100 11900 3000
+Wire Wire Line
+	11900 3200 11900 3100
+Wire Wire Line
+	11900 3300 11900 3200
+Wire Wire Line
+	11900 2900 12700 2900
+Wire Wire Line
+	11900 3000 12700 3000
+Wire Wire Line
+	11900 3100 12700 3100
+Wire Wire Line
+	11900 3200 12700 3200
+Text Label 5800 1300 0 60 ~
+MISC_GPIO0
+Wire Wire Line
+	2000 2800 2800 2800
+Wire Wire Line
+	11300 600 11300 800
+Wire Wire Line
+	5100 1300 5800 1300
+Text Label 12200 2300 0 60 ~
+SPI_SS
+Text Label 5500 1200 0 60 ~
+SPI_SS
+Wire Wire Line
+	5800 1200 5100 1200
+Wire Wire Line
+	5800 2400 5100 2400
+Text Label 5600 3650 0 60 ~
+No internal pull-down resistor on PH3/BOOT0 for STM32L431CBY
+Connection ~ 1100 1400
+Connection ~ 1100 1000
+Connection ~ 1600 1400
+Connection ~ 1600 1000
+Connection ~ 2000 8000
+Connection ~ 2100 1400
+Connection ~ 2100 1000
+Connection ~ 2150 9000
+Connection ~ 2300 9100
+Connection ~ 2450 9300
+Connection ~ 2600 9200
+Connection ~ 2600 8900
+Connection ~ 2600 8600
+Connection ~ 2600 8300
+Connection ~ 2600 2000
+Connection ~ 2600 1600
+Connection ~ 2600 1000
+Connection ~ 2800 2000
+Connection ~ 2800 1900
+Connection ~ 2800 1800
+Connection ~ 2800 1600
+Connection ~ 2800 1500
+Connection ~ 2800 1400
+Connection ~ 2800 1300
+Connection ~ 2800 1200
+Connection ~ 5050 9200
+Connection ~ 5050 8900
+Connection ~ 5050 8600
+Connection ~ 5300 3100
+Connection ~ 10700 1800
+Connection ~ 10800 4600
+Connection ~ 11000 5000
+Connection ~ 11300 800
+Connection ~ 11800 800
+Connection ~ 11900 3200
+Connection ~ 11900 3100
+Connection ~ 11900 3000
+Connection ~ 11900 2900
+Connection ~ 12000 5000
+Connection ~ 12200 4600
+Connection ~ 12300 800
+Connection ~ 12700 1800
+Connection ~ 12700 1200
+Connection ~ 12700 1100
+Connection ~ 12700 900
+Connection ~ 12700 800
+Connection ~ 14500 3700
+Connection ~ 14500 3600
+Connection ~ 14500 3500
+Connection ~ 14500 3400
+Connection ~ 14500 3300
+Connection ~ 14500 3200
+Connection ~ 14500 3100
+Connection ~ 14500 3000
+Connection ~ 14500 2900
+Connection ~ 14500 2800
+Connection ~ 14500 2700
+Connection ~ 14500 2600
+Connection ~ 14500 2500
+Connection ~ 14500 2400
+Connection ~ 14500 2300
+Connection ~ 14500 2200
+Connection ~ 14500 2100
+Connection ~ 14500 2000
+Connection ~ 14500 1900
+Connection ~ 14500 1800
+Connection ~ 14500 1700
+Connection ~ 14500 1600
+Connection ~ 14500 1500
+Connection ~ 14500 1400
+Connection ~ 14500 1300
+Connection ~ 14500 1200
+Connection ~ 14500 1100
+Connection ~ 14500 1000
+Connection ~ 14500 900
+$Comp
+L Capacitor-Symbol-1 C7
+U 1 1 642AA8B9
+P 1100 1200
+F 0 "C7" H 950 1200 60  0000 L BNN
+F 1 "4.7µF" H 950 1100 60  0000 L BNN
+F 2 "" H 950 1100 60  0000 C CNN
+F 3 "" H 950 1100 60  0000 C CNN
+	1    1100 1200
+	1    0    0    -1
+$EndComp
+$Comp
+L TP-symbol-1 TP4
+U 1 1 642AA8B8
+P 2300 7700
+F 0 "TP4" H 2250 7800 60  0000 L BNN
+	1    2300 7700
+	1    0    0    -1
+$EndComp
+$Comp
+L TP-symbol-1 TP3
+U 1 1 642AA8B7
+P 2150 7700
+F 0 "TP3" H 2050 7800 60  0000 L BNN
+	1    2150 7700
+	1    0    0    -1
+$EndComp
+$Comp
+L TP-symbol-1 TP2
+U 1 1 642AA8B6
+P 1100 7700
+F 0 "TP2" H 1050 7800 60  0000 L BNN
+	1    1100 7700
+	1    0    0    -1
+$EndComp
+$Comp
+L STM32L431CXY-Symbol-1 U1
+U 1 1 642AA8B5
+P 2800 1200
+F 0 "U1" H 3100 1300 60  0000 L BNN
+F 1 "STM32L431CBY6TR" H 3100 -1700 60  0000 L BNN
+F 2 "" H 3100 -1700 60  0000 C CNN
+F 3 "" H 3100 -1700 60  0000 C CNN
+	1    2800 1200
+	1    0    0    -1
+$EndComp
+$Comp
+L A121-symbol-1 U2
+U 1 1 642AA8B4
+P 13000 700
+F 0 "U2" H 13000 700 60  0000 L BNN
+F 1 "A121" H 13000 -3100 60  0000 L BNN
+F 2 "" H 13000 -3100 60  0000 C CNN
+F 3 "" H 13000 -3100 60  0000 C CNN
+	1    13000 700
+	1    0    0    -1
+$EndComp
+$Comp
+L Crystal_4-pin,_symbol-1 X1
+U 1 1 642AA8B3
+P 11200 4500
+F 0 "X1" H 11190 4500 60  0000 L BNN
+F 1 "ECS-240-8-36-RWN-TR3" H 11200 4600 60  0000 L BNN
+F 2 "" H 11200 4600 60  0000 C CNN
+F 3 "" H 11200 4600 60  0000 C CNN
+	1    11200 4500
+	1    0    0    -1
+$EndComp
+$Comp
+L Fiducial F1
+U 1 1 642AA8B2
+P 6900 7300
+F 0 "F1" H 6790 7410 60  0000 L BNN
+F 1 "Fiducial marker" H 6790 7090 60  0000 L BNN
+F 2 "" H 6790 7090 60  0000 C CNN
+F 3 "" H 6790 7090 60  0000 C CNN
+	1    6900 7300
+	1    0    0    -1
+$EndComp
+$Comp
+L Fiducial F2
+U 1 1 642AA8B1
+P 7600 7300
+F 0 "F2" H 7490 7410 60  0000 L BNN
+F 1 "Fiducial marker" H 7490 7090 60  0000 L BNN
+F 2 "" H 7490 7090 60  0000 C CNN
+F 3 "" H 7490 7090 60  0000 C CNN
+	1    7600 7300
+	1    0    0    -1
+$EndComp
+$Comp
+L Capacitor-Symbol-1 C12
+U 1 1 642AA8B0
+P 2100 1800
+F 0 "C12" H 1950 1800 60  0000 L BNN
+F 1 "1µF" H 1950 1700 60  0000 L BNN
+F 2 "" H 1950 1700 60  0000 C CNN
+F 3 "" H 1950 1700 60  0000 C CNN
+	1    2100 1800
+	1    0    0    -1
+$EndComp
+$Comp
+L Capacitor-Symbol-1 C11
+U 1 1 642AA8AF
+P 2600 1800
+F 0 "C11" H 2450 1800 60  0000 L BNN
+F 1 "100nF" H 2450 1700 60  0000 L BNN
+F 2 "" H 2450 1700 60  0000 C CNN
+F 3 "" H 2450 1700 60  0000 C CNN
+	1    2600 1800
+	1    0    0    -1
+$EndComp
+$Comp
+L Capacitor-Symbol-1 C1
+U 1 1 642AA8AE
+P 11300 1000
+F 0 "C1" H 11410 970 60  0000 L BNN
+F 1 "1µF" H 11410 870 60  0000 L BNN
+F 2 "" H 11410 870 60  0000 C CNN
+F 3 "" H 11410 870 60  0000 C CNN
+	1    11300 1000
+	1    0    0    -1
+$EndComp
+$Comp
+L Capacitor-Symbol-1 C9
+U 1 1 642AA8AD
+P 2100 1200
+F 0 "C9" H 1950 1200 60  0000 L BNN
+F 1 "100nF" H 1950 1100 60  0000 L BNN
+F 2 "" H 1950 1100 60  0000 C CNN
+F 3 "" H 1950 1100 60  0000 C CNN
+	1    2100 1200
+	1    0    0    -1
+$EndComp
+$Comp
+L Capacitor-Symbol-1 C10
+U 1 1 642AA8AC
+P 2600 1200
+F 0 "C10" H 2450 1200 60  0000 L BNN
+F 1 "100nF" H 2450 1100 60  0000 L BNN
+F 2 "" H 2450 1100 60  0000 C CNN
+F 3 "" H 2450 1100 60  0000 C CNN
+	1    2600 1200
+	1    0    0    -1
+$EndComp
+$Comp
+L Capacitor-Symbol-1 C8
+U 1 1 642AA8AB
+P 1600 1200
+F 0 "C8" H 1450 1200 60  0000 L BNN
+F 1 "100nF" H 1450 1100 60  0000 L BNN
+F 2 "" H 1450 1100 60  0000 C CNN
+F 3 "" H 1450 1100 60  0000 C CNN
+	1    1600 1200
+	1    0    0    -1
+$EndComp
+$Comp
+L Resistor-Symbol-1 R1
+U 1 1 642AA8AA
+P 5300 3700
+F 0 "R1" V 5600 3600 60  0000 R TNN
+F 1 "100k" V 5500 3600 60  0000 R TNN
+F 2 "" H 5500 3600 60  0000 C CNN
+F 3 "" H 5500 3600 60  0000 C CNN
+	1    5300 3700
+	0    -1   -1   0
+$EndComp
+$Comp
+L Capacitor-Symbol-1 C3
+U 1 1 642AA8A9
+P 12300 1000
+F 0 "C3" H 12410 970 60  0000 L BNN
+F 1 "1µF" H 12410 870 60  0000 L BNN
+F 2 "" H 12410 870 60  0000 C CNN
+F 3 "" H 12410 870 60  0000 C CNN
+	1    12300 1000
+	1    0    0    -1
+$EndComp
+$Comp
+L Capacitor-Symbol-1 C2
+U 1 1 642AA8A8
+P 11800 1000
+F 0 "C2" H 11910 970 60  0000 L BNN
+F 1 "1µF" H 11910 870 60  0000 L BNN
+F 2 "" H 11910 870 60  0000 C CNN
+F 3 "" H 11910 870 60  0000 C CNN
+	1    11800 1000
+	1    0    0    -1
+$EndComp
+$Comp
+L Capacitor-Symbol-1 C4
+U 1 1 642AA8A7
+P 10700 1900
+F 0 "C4" H 10810 1870 60  0000 L BNN
+F 1 "1µF" H 10810 1770 60  0000 L BNN
+F 2 "" H 10810 1770 60  0000 C CNN
+F 3 "" H 10810 1770 60  0000 C CNN
+	1    10700 1900
+	1    0    0    -1
+$EndComp
+$Comp
+L 28-pin_LGA_symbol-1 J1
+U 1 1 642AA8A6
+P 3700 8600
+F 0 "J1" H 2881 9300 60  0000 L BNN
+F 1 "28-pin LGA" H 2950 7700 60  0000 L BNN
+F 2 "" H 2950 7700 60  0000 C CNN
+F 3 "" H 2950 7700 60  0000 C CNN
+	1    3700 8600
+	1    0    0    -1
+$EndComp
+$Comp
+L Capacitor-Symbol-1 C6
+U 1 1 642AA8A5
+P 10800 4800
+F 0 "C6" H 10500 4800 60  0000 L BNN
+F 1 "8pF" H 10500 4700 60  0000 L BNN
+F 2 "" H 10500 4700 60  0000 C CNN
+F 3 "" H 10500 4700 60  0000 C CNN
+	1    10800 4800
+	1    0    0    -1
+$EndComp
+$Comp
+L Capacitor-Symbol-1 C5
+U 1 1 642AA8A4
+P 12200 4800
+F 0 "C5" H 12310 4770 60  0000 L BNN
+F 1 "8pF" H 12310 4670 60  0000 L BNN
+F 2 "" H 12310 4670 60  0000 C CNN
+F 3 "" H 12310 4670 60  0000 C CNN
+	1    12200 4800
+	1    0    0    -1
+$EndComp
+$Comp
+L TP-symbol-1 TP1
+U 1 1 642AA8A3
+P 2000 7700
+F 0 "TP1" H 1900 7800 60  0000 L BNN
+	1    2000 7700
+	1    0    0    -1
+$EndComp
+$Comp
+L TP-symbol-1 TP5
+U 1 1 642AA8A2
+P 2450 7700
+F 0 "TP5" H 2450 7800 60  0000 L BNN
+	1    2450 7700
+	1    0    0    -1
+$EndComp
+$EndSCHEMATC

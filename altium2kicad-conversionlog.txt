@@ -1,0 +1,52 @@
+Archive:  db/20504.zip
+  inflating: db/20504/PCB specifications.PCBDwf  
+  inflating: db/20504/XM125.BomDoc   
+  inflating: db/20504/XM125.PcbDoc   
+  inflating: db/20504/XM125.PrjPcb   
+  inflating: db/20504/XM125.PrjPcbVariants  
+  inflating: db/20504/XM125.SchDoc   
+Loading XM125.SchDoc
+
+Loading XM125.PcbDoc
+
+Done.
+Handling XM125-PcbDoc/Root Entry/Board6/Data.dat
+ASCII-XM125-PcbDoc.PcbDoc exists?
+Writing to XM125-PcbDoc/Root Entry/Board6/Data.dat.txt
+Writing to XM125-PcbDoc/Root Entry/Models/Data.dat.txt
+Writing to XM125-PcbDoc/Root Entry/UniqueIDPrimitiveInformation/Data.dat.txt
+Writing to XM125-PcbDoc/Root Entry/Rules6/Data.dat.txt
+Writing to XM125-PcbDoc/Root Entry/Classes6/Data.dat.txt
+Writing PCB to XM125-PcbDoc.kicad_pcb
+Writing to XM125-PcbDoc/Root Entry/Nets6/Data.dat.txt
+Writing to XM125-PcbDoc/Root Entry/Components6/Data.dat.txt
+Pads6...
+Writing to XM125-PcbDoc/Root Entry/ComponentBodies6/Data.dat.txt
+NOT FOUND: ECS-240-10-36B-7KM-TR.wrl
+NOT FOUND: CAPC0603X04N.wrl
+NOT FOUND: A111_dark v1.wrl
+NOT FOUND: BGA49C40P7X7_314X313X58.wrl
+NOT FOUND: CAPC1005X05L.wrl
+Writing to XM125-PcbDoc/Root Entry/ShapeBasedComponentBodies6/Data.dat.txt
+Writing to XM125-PcbDoc/Root Entry/Components6/Data.dat.txt
+Writing to XM125-PcbDoc/Root Entry/Arcs6/Data.dat.txt
+Writing to XM125-PcbDoc/Root Entry/Vias6/Data.dat.txt
+Writing to XM125-PcbDoc/Root Entry/Polygons6/Data.dat.txt
+Writing to XM125-PcbDoc/Root Entry/Tracks6/Data.dat.txt
+Writing to XM125-PcbDoc/Root Entry/FileVersionInfo/Data.dat.txt
+Writing to XM125-PcbDoc/Root Entry/Regions6/Data.dat.txt
+Overflow: verts:264 ver:8 vpos:132 length:132 !
+Overflow: verts:832 ver:64 vpos:1028 length:1028 !
+Overflow: verts:899 ver:131 vpos:2100 length:2100 !
+Overflow: verts:550 ver:38 vpos:612 length:612 !
+Overflow: verts:1024 ver:0 vpos:4 length:4 !
+Overflow: verts:1030 ver:6 vpos:100 length:100 !
+Overflow: verts:312 ver:56 vpos:900 length:900 !
+Overflow: verts:446 ver:190 vpos:3044 length:3044 !
+Overflow: verts:669 ver:157 vpos:2516 length:2516 !
+Overflow: verts:427 ver:171 vpos:2740 length:2740 !
+Texts6...
+Handling XM125-PcbDoc/Root Entry/FileHeader.dat
+Handling XM125-SchDoc/Root Entry/FileHeader.dat
+ERROR: Acconeer logo.svg not found!
+Handling XM125.SchDoc
